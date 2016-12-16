@@ -86,14 +86,14 @@ To run all unit tests, run the following commands:
     cd catalog-android
     gradle test
 
-## Guides
+# Guides
 
 1. [Architecture](#architecture)
-2. [How to ...](#how-to-...)
+1. [How to ...](#how-to-...)
 
-### Architecture
+## Architecture
 
-### How to ...
+## How to ...
 
 ## Contributing
 
